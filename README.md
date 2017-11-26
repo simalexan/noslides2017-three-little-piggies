@@ -18,3 +18,5 @@ Develop and use Claudia to remove overhead and deploy a complete  API in
 three commands!
 
 [Three little piggies by Freid Seibert](https://www.flickr.com/photos/84568447@N00/2956278761)
+
+![](https://github.com/simalexan/noslides2017-three-little-piggies/blob/master/three-piggies.jpeg?raw=true)
